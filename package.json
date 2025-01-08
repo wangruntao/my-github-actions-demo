@@ -1,0 +1,15 @@
+{
+  "name": "my-github-actions-demo",
+  "version": "1.0.0",
+  "description": "一个 GitHub Actions 入门示例项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
